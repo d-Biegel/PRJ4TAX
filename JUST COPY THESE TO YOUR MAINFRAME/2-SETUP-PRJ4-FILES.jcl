@@ -191,7 +191,7 @@
        01  TAXPAYER-MASTER-REC            COPY MASTRREC.
       *  - OUTPUT COPYBOKKS
        01  REPORT-REC                    COPY REPORTO.
-       01  DISBURSEMENT-REC              COPY DISPRSEO.
+       01  DISBURSEMENT-REC              COPY DISBRSEO.
        01  AUDIT-FLAG-REC                COPY AUDITO.
 
       * VSAM IO SETUP COPYBOOKS
