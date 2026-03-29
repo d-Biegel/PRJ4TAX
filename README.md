@@ -1,6 +1,8 @@
 # PRJ4TAX - Tax Calculation Batch Program
-Simulated IRS Tax Proccessing batch program. Processes a sequential batch file to determine the taxes owed by each user, if they are getting a refund, and if they need to be flagged for an audit. Checks VSAM DB to see historical tax history and update it.
+Simulated IRS Tax Processing batch program. Processes a sequential batch file to determine the taxes owed by each user, if they are getting a refund, and if they need to be flagged for an audit. Checks VSAM DB to see historical tax history and update it.
 Incorporates Jay Moseley's VSAMIO assembler routine and code snippets to access the VSAM file.
+
+#### DEMO VIDEO LINK <a href="https://youtu.be/x4Dd3O6r1xU">HERE</a>!
 
 COMPILES ON MVS 3.8 TK5 - FITS COBOL 68 STANDARD
 
