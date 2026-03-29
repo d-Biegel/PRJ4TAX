@@ -943,7 +943,7 @@
            CONTROLINTERVALSIZE(4096) -
            FREESPACE(10,20) -
            RECORDSIZE(80,80) -
-           KEYS(10,0) -
+           KEYS(9,0) -
            UNIQUE ) -
          DATA ( -
            NAME(HERC01.PRJ4.MASTERDB.DATA) ) -
